@@ -4,7 +4,7 @@ import PokemonCard from "../components/PokemonCard";
 import Button from "react-bootstrap/Button";
 import Sound from 'react-audio-player';
 import { useOutletContext, useNavigate, Link } from "react-router-dom";
-import pokedexMusic from '/src/assets/BackgroundMusic/soft-game-theme-loop.wav'
+import pokedexMusic from '/src/assets/BackgroundMusic/low-bass-loop.wav'
 
 
 const PokedexPage = () => {
